@@ -1,0 +1,5 @@
+djangorestframework 
+mysqlclient 
+python-decouple
+djangorestframework-simplejwt
+django >=4.0
